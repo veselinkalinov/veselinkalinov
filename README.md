@@ -25,15 +25,15 @@ I am a passionate **Software Engineering Student** at the Technical University o
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Veselin's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=veselinkalinov&show_icons=true&theme=radical" alt="Veselin's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veselinkalinov&layout=compact&theme=radical" alt="Top Languages" height="150" />
 </p>
 
 ---
 
 ### 📫 How to reach me
 
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/YOUR-PROFILE-LINK)
+* **LinkedIn:** [Connect with me]([https://www.linkedin.com/in/YOUR-PROFILE-LINK](https://www.linkedin.com/in/veselin-kalinov-aaa62a387/))
 * **Email:** (Optional: veselin.kalinov@email.com)
 
 <p align="center">
