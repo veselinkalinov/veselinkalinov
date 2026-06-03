@@ -2,17 +2,17 @@
 
 **Computer & Software Engineering Student · TU Sofia**
 
-I'm a first-year engineering student with a strong mathematical foundation, building toward a career in software development. I focus on writing clean, efficient code — currently deepening my skills in low-level programming, data structures, and backend fundamentals.
+I'm a second-year engineering student with a strong mathematical foundation, building toward a career in software development and ai engineering. I focus on writing clean, efficient code — currently deepening my skills in low-level programming, data structures, and backend fundamentals.
 
 ---
 
 ## About Me
 
-- 🎓 BSc Computer & Software Engineering — Technical University of Sofia (Faculty FKST), Year 1
-- 🏆 Graduated with a perfect GPA (6.00) from the High School of Mathematics "Dr. Petar Beron" — Varna
-- 💻 Currently working on: low-level programming in **C**, dynamic memory management, and data structures
-- 📚 Currently learning: advanced Python, database optimization, and electrical engineering fundamentals
-- 📌 Interests: software architecture, business & finance, stock analysis, and sports
+- 🎓 BSc Computer & Software Engineering — Technical University of Sofia (Faculty FKST), Year 2
+- 🏆 Graduated from the High School of Mathematics "Dr. Petar Beron" — Varna
+- 💻 Currently working on: low-level programming in **C**, dynamic memory management, ml and ai engineering projects with python and data structures
+- 📚 Currently learning: advanced Python, ai engineering fundamentals, database optimization, and electrical engineering fundamentals
+- 📌 Interests: software architecture, ai engineering, business & finance and sports
 
 ---
 
