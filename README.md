@@ -133,26 +133,6 @@ Bulgarian-first mobile and administrative application foundation for farmers and
 
 ---
 
-## Technical Focus
-
-### AI, Machine Learning and Data
-
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `XGBoost` · `LightGBM` · `CatBoost` · `Feature Engineering` · `Model Evaluation` · `RAG`
-
-### Backend and Web
-
-`FastAPI` · `Flask` · `REST APIs` · `Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Supabase` · `pgvector`
-
-### Engineering Tools
-
-`Docker` · `Docker Compose` · `Git` · `GitHub` · `pytest` · `Ruff` · `mypy`
-
-### Additional Languages
-
-`C` · `C#` · `Java` · `SQL` · `HTML`
-
----
-
 ## Education
 
 **Technical University of Sofia**  
