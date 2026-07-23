@@ -13,6 +13,35 @@ I build end-to-end projects that combine data processing, machine learning, APIs
 
 ---
 
+## Tech Stack
+
+### Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+### AI/ML, Data and Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge" alt="XGBoost" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge" alt="LightGBM" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge" alt="CatBoost" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
+
 ## Selected Projects
 
 ### [WC 2026 Match Outcome Predictor](https://github.com/veselinkalinov/wc2026-predictor)
@@ -78,6 +107,14 @@ Academic C programming work covering:
 
 ---
 
+### [University Python Labs](https://github.com/veselinkalinov/university-python-labs)
+
+Academic Python programming exercises covering OOP, data structures, file I/O, and modular programming.
+
+`Python` · `OOP` · `Data Structures` · `File I/O`
+
+---
+
 ## Current Private Work
 
 ### AI Prompt Optimizer
@@ -130,6 +167,8 @@ Expected graduation: June 2029
 - **AI Fluency: Framework & Foundations** — Anthropic
 - **Claude 101** — Anthropic
 - **Cambridge English: Advanced** — CEFR C1, Grade B, score 193
+- * English — C1
+- * German — A2
 
 ---
 
